@@ -1,0 +1,7 @@
+Emirhan:10
+Gül:5
+Fatma:1
+Fatih:2
+Nisa:5
+Rumeysa:0
+Ayşe:4
